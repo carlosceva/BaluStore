@@ -1,0 +1,82 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "COOLER P/PORTATIL 17",
+        "imagen": "./img/pc/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio":85
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "MEMORIA FLASH 64GB",
+        "imagen": "./img/pc/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 55
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "CASE EXTERNO USB3.0",
+        "imagen": "./img/pc/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 55
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Combo gaming",
+        "imagen": "./img/pc/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 180
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "DISCO DURO SEAGATE 1TB",
+        "imagen": "./img/pc/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 240
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "CAM BALA METAL 2MP DAHUA",
+        "imagen": "./img/cctv/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 180
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "CAM DOMO METAL 2MP DAHUA",
+        "imagen": "./img/cctv/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 155
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "XVR 4CH 1080p DAHUA",
+        "imagen": "./img/cctv/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    }    
+]
