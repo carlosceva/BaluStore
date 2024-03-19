@@ -4,7 +4,7 @@
         "titulo": "COOLER P/PORTATIL 17",
         "imagen": "./img/pc/01.jpg",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Accesorios de PC",
             "id": "abrigos"
         },
         "precio":85
@@ -54,7 +54,7 @@
         "titulo": "CAM BALA METAL 2MP DAHUA",
         "imagen": "./img/cctv/01.jpg",
         "categoria": {
-            "nombre": "Camisetas",
+            "nombre": "Camaras de seguridad",
             "id": "camisetas"
         },
         "precio": 180
